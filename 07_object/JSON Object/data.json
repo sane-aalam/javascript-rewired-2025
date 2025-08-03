@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Smith",
+    "skills": ["JavaScript", "React", "Node.js"],
+    "experienceYears": 5,
+    "isAvailable": true,
+    "hourlyRate": 50
+  },
+  {
+    "id": 2,
+    "name": "Bob Johnson",
+    "skills": ["Python", "Django", "JavaScript"],
+    "experienceYears": 3,
+    "isAvailable": false,
+    "hourlyRate": 40
+  },
+  {
+    "id": 3,
+    "name": "Charlie Brown",
+    "skills": ["JavaScript", "Vue", "TypeScript"],
+    "experienceYears": 7,
+    "isAvailable": true,
+    "hourlyRate": 70
+  },
+  {
+    "id": 4,
+    "name": "Diana Lee",
+    "skills": ["React", "TypeScript", "GraphQL"],
+    "experienceYears": 4,
+    "isAvailable": true,
+    "hourlyRate": 60
+  }
+]
